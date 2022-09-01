@@ -1,19 +1,15 @@
-### I'm tekatoki, this template profile is not finished
+# Hello there, I'm tekatoki
 
-<!--
-**tekatoki/tekatoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````python
+class tekatoki:    
+    experience = 'novice programer'
+    current_status = 'Student'
+    
+    lenguages = ['Spanish', 'English', 'Catalan']
+    learning_lenguages = ['English', 'German']
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    stack = ['Python', 'Javascript']
+```` 
 
 <!-- 
 $username = add_your_github's_username
@@ -22,6 +18,8 @@ $count_private= true|false (to count your private activity on github)
 $show_icons= true|false
 $theme= THEME_NAME
  -->
+
+## Github Stats
 
 [![tekatoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekatoki&hide=&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
