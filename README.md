@@ -8,7 +8,7 @@ Unfortunately, I do not have too much free time 😅.
 PRONOMS = 'he/him'
 
 class tekatoki:    
-    experience = 'novice programer'
+    experience = 'amateur programer'
     current_status = 'Student'
     
     lenguages = ['Spanish', 'English', 'Catalan']
