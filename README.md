@@ -1,6 +1,12 @@
-# Hello there, I'm tekatoki
+# Hello there, I am tekatoki
+
+I am an amateur programmer that learns his coding skills in his free time. 
+Unfortunately, I do not have too much time.
+
 
 ````python
+PRONOMS = 'he/him'
+
 class tekatoki:    
     experience = 'novice programer'
     current_status = 'Student'
@@ -9,6 +15,8 @@ class tekatoki:
     learning_lenguages = ['English', 'German']
 
     stack = ['Python', 'Javascript']
+
+    print('I love Open Source software')
 ```` 
 
 <!-- 
