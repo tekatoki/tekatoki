@@ -1,7 +1,7 @@
 # Hello there, I am tekatoki
 
-I am an amateur programmer that learns his coding skills in his free time. 
-Unfortunately, I do not have too much time.
+I am an amateur programmer that learns his coding skills in his free time.    
+Unfortunately, I do not have too much free time 😅.
 
 
 ````python
@@ -16,7 +16,8 @@ class tekatoki:
 
     stack = ['Python', 'Javascript']
 
-    print('I love Open Source software')
+
+print('I love Open Source software')
 ```` 
 
 <!-- 
