@@ -8,7 +8,7 @@ Unfortunately, I do not have too much free time 😅.
 PRONOMS = 'he/him'
 
 class tekatoki:    
-    experience = 'amateur programer'
+    experience = 'Amateur programer'
     current_status = 'Student'
     
     lenguages = ['Spanish', 'English', 'Catalan']
@@ -28,9 +28,13 @@ $show_icons= true|false
 $theme= THEME_NAME
  -->
 
-## Github Stats
+## ![Github](./icons/github.svg) Github Stats
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=tekatoki&hide=&count_private=true&show_icons=true&theme=dracula'>
 
-<img align='right' width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dracula'>
+<img width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dracula'>
+
+===============================
+
+### Find me on:
 
