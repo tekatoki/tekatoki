@@ -1,7 +1,7 @@
 # Hello there, I am tekatoki
 
-I am an amateur programmer that learns his coding skills in his free time. 
-Unfortunately, I do not have too much time.
+I am an amateur programmer that learns his coding skills in his free time.    
+Unfortunately, I do not have too much free time 😅.
 
 
 ````python
@@ -16,7 +16,8 @@ class tekatoki:
 
     stack = ['Python', 'Javascript']
 
-    print('I love Open Source software')
+
+print('I love Open Source software')
 ```` 
 
 <!-- 
@@ -32,3 +33,4 @@ $theme= THEME_NAME
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=tekatoki&hide=&count_private=true&show_icons=true&theme=dracula'>
 
 <img align='right' width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dracula'>
+
