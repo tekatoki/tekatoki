@@ -34,13 +34,13 @@ $theme= THEME_NAME
 
 <img width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dracula'>
 
-### Find me on:
+## Find me on:
 
-![https://www.youtube.com/channel/UCbqrUcad2dKqa0T66oKvhpA](./icons/youtube.svg)
-![https://www.twitch.tv/danioid548](./icons/twitch.svg)
-![https://open.spotify.com/user/5slf08xnlchsdunpd36sycl2a?si=cab72de2c76a4297](./icons/spotify.svg)
-![https://twitter.com/danioid_](./icons/twitter.svg)
-![https://www.instagram.com/danioid_/](./icons/instagram.svg)
-![https://www.reddit.com/user/Danioid_](./icons/reddit.svg)
-![https://gitlab.com/tekatoki](./icons/gitlab.svg)
-![https://stackoverflow.com/users/16606821/tekatoki](./icons/stack-overflow.svg)
+[![Youtube](./icons/youtube.svg)](https://www.youtube.com/channel/UCbqrUcad2dKqa0T66oKvhpA)
+[![Twitch](./icons/twitch.svg)](https://www.twitch.tv/danioid548)
+[![Twitter](./icons/twitter.svg)](https://twitter.com/danioid_)
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/danioid_/)
+[![Reddit](./icons/reddit.svg)](https://www.reddit.com/user/Danioid_)
+[![Spotify](./icons/spotify.svg)](https://open.spotify.com/user/5slf08xnlchsdunpd36sycl2a?si=cab72de2c76a4297)
+[![GitLab](./icons/gitlab.svg)](https://gitlab.com/tekatoki)
+[![Stack Overflow](./icons/stack-overflow.svg)](https://stackoverflow.com/users/16606821/tekatoki)
