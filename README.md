@@ -16,6 +16,7 @@ class tekatoki:
 
     stack = ['Python', 'Javascript']
 
+    favorite_VS-Code = 'Dracula'
 
 print('I love Open Source software')
 ```` 
@@ -30,9 +31,9 @@ $theme= THEME_NAME
 
 ## Github Stats
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=tekatoki&hide=&count_private=true&show_icons=true&theme=dracula'>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=tekatoki&hide=&count_private=true&show_icons=true&theme=dark'>
 
-<img width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dracula'>
+<img width= '47%' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tekatoki&count_private=true&layout=compact&theme=dark'>
 
 ## Find me on:
 
