@@ -5,18 +5,16 @@ Unfortunately, I do not have too much free time 😅.
 
 
 ````python
-PRONOMS = 'he/his'
-
 class tekatoki:    
-    experience = 'Amateur programer'
+    experience = 'Rookie'
     current_status = 'Student'
     
     lenguages = ['Spanish', 'English', 'Catalan']
     learning_lenguages = ['English', 'German']
 
-    stack = ['Python', 'Javascript']
+    stack = 'Under development'
 
-    favorite_VS-Code = 'Dracula'
+    favorite_VS-Code_theme = 'Dracula'
 
 print('I love Open Source software')
 ```` 
