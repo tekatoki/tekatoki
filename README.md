@@ -5,17 +5,17 @@ Unfortunately, I do not have too much free time 😅.
 
 
 ````python
-class tekatoki:    
-    experience = 'Rookie'
-    current_status = 'Student'
+tekatoki = {    
+    'experience' = 'Rookie',
+    'current_status' = 'Student'
     
-    lenguages = ['Spanish', 'English', 'Catalan']
-    learning_lenguages = ['English', 'German']
+    'languages' = ['Spanish', 'English', 'Catalan']
+    'learning_languages' = ['English', 'German']
 
-    stack = 'Under development'
+    'stack' = 'Under development'
 
-    favorite_VS-Code_theme = 'Dracula'
-
+    'favorite_VS-Code_theme' = 'Dracula'
+}
 print('I love Open Source software')
 ```` 
 
