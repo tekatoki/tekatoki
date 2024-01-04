@@ -7,13 +7,10 @@ Unfortunately, I do not have too much free time 😅.
 ````python
 tekatoki = {    
     'experience' = 'Rookie',
-    'current_status' = 'Student'
-    
-    'languages' = ['Spanish', 'English', 'Catalan']
-    'learning_languages' = ['English', 'German']
-
-    'stack' = 'Under development'
-
+    'current_status' = 'Student',
+    'languages' = ['Spanish', 'English', 'Catalan'],
+    'learning_languages' = ['English', 'German'],
+    'stack' = 'Under development',
     'favorite_VS-Code_theme' = 'Dracula'
 }
 print('I love Open Source software')
