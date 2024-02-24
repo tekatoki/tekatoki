@@ -1,19 +1,18 @@
 # Hello there, I am tekatoki
 
-I am an amateur programmer that learns his coding skills in his free time.    
-Unfortunately, I do not have too much free time 😅.
+I am a high school student that loves technology and science. 
 
 
 ````python
 tekatoki = {    
-    'experience' = 'Rookie',
-    'current_status' = 'Student',
-    'languages' = ['Spanish', 'English', 'Catalan'],
-    'learning_languages' = ['English', 'German'],
-    'stack' = 'Under development',
-    'favorite_VS-Code_theme' = 'Dracula'
+    'experience' : 'Rookie',
+    'current_status' : 'Student',
+    'fluent_languages' : ['Spanish', 'English', 'Catalan'],
+    'learning_languages' : ['English', 'German'],
+    'stack' : 'Under development',
+    'editor_theme' : 'Dracula'
+    'participations_programming_events' : ['III Olimpíada Informàtica de la UIB (Univerisity of the         Baleric Islands)']
 }
-print('I love Open Source software')
 ```` 
 
 <!-- 
