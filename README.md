@@ -11,7 +11,7 @@ tekatoki = {
     'learning_languages' : ['English', 'German'],
     'stack' : 'Under development',
     'editor_theme' : 'Dracula'
-    'participations_programming_events' : ['III Olimpíada Informàtica de la UIB (Univerisity of the         Baleric Islands)']
+    'participations_programming_events' : ['III Olimpíada Informàtica de la UIB (Univerisity of the Baleric Islands)']
 }
 ```` 
 
