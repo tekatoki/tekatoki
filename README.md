@@ -16,5 +16,6 @@ $theme= THEME_NAME
 
 ## Find me on:
 
-[![Spotify](./icons/spotify.svg)](https://open.spotify.com/user/5slf08xnlchsdunpd36sycl2a?si=cab72de2c76a4297)
 [![GitLab](./icons/gitlab.svg)](https://gitlab.com/tekatoki)
+[![Spotify](./icons/spotify.svg)](https://open.spotify.com/user/5slf08xnlchsdunpd36sycl2a?si=cab72de2c76a4297)
+
